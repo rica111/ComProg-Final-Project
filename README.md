@@ -54,18 +54,6 @@ Analysis Module: Statistical computation (Mean, Median, StdDev) using NumPy.
 
 Visualization Module: Generation of 5 Static Graphs (.png) and 4 Animated Graphs (.gif) to track real-time oxygen decay.
 
- Repository Structure
-Plaintext
-EDS_25-3364_Villarta/
-├── main.py                 # Core Python Pipeline
-├── requirements.txt        # Library dependencies (pandas, numpy, etc.)
-├── README.md               # Project documentation
-├── data/
-│   ├── dataset_original.csv
-│   └── dataset_cleaned.csv # Unique filtered data slice
-└── outputs/
-    ├── static_graphs/      # 5 Static Visualizations
-    └── animations/         # 4 Animated Sensor Trends
  Project Purpose
 The final output provides a decision-support system for aquaculture management, utilizing data-driven insights to prevent mass mortality in ponds due to oxygen depletion.
 
